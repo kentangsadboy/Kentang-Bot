@@ -1,6 +1,6 @@
 /**
-   * Create By Raiden. && Catozolala
-   * Buy https://wa.me/+6281938830020
+   * Create By Irfan
+   * 
 */
 
 const fs = require('fs')
@@ -20,21 +20,21 @@ global.keyopenai = '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'
 //openai ganti ae dengan openai yang baru
 global.wagc = "https://chat.whatsapp.com/HacZtGqnDHo8KjWG2n7ySO"
 // link jangan di ubah gak guna wkwk
-global.owner = ["6285877454704", "628811699515"] //owner ganti ae
-global.owner1 = ['6285877454704']
-global.premium = ['6285877454704'] //premium ganti ae
-global.packname = 'BANG SKULL' //pacname ganti ae
-global.author = 'WhatsApp Bot'//author ganti saja
+global.owner = ["6285179775562", "628811699515"] //owner ganti ae
+global.owner1 = ['6285179775562']
+global.premium = ['6285179775562'] //premium ganti ae
+global.packname = 'KENTANG' //pacname ganti ae
+global.author = 'KentangBot'//author ganti saja
 global.sessionName = 'hisoka' //jangan di ubah 
 global.prefa = ['','!','.','🐦','🐤','🗿'] // jangan fi ubah
 global.sp = '⭔'
-global.namebot = "BANG SKULL BOTT" // wkwk
+global.namebot = "KENTANG BOT" // wkwk
 global.v = 'BANG SKULL' //jangan di ubah
 global.premium = '`Premium`' //jangan di ubah
 global.free = '`free`' //jangan di ubah
-global.fake1 = "BANG SKULL" // Ganti sesuka luh
-global.ownerNumber = '6285877454704' //owner number ganti ae
-global.senderNumber = '6285877454704' //number ganti ae
+global.fake1 = "KENTANG" // Ganti sesuka luh
+global.ownerNumber = '6285179775562' //owner number ganti ae
+global.senderNumber = '6285179775562' //number ganti ae
 
 //nenu mending jgn di ganti hargai yang membuat
 global.foter1 = 'BANG SKULL'
